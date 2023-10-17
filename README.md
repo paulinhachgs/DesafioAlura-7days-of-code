@@ -1,24 +1,26 @@
-# Desafio Alura: 7days of code - Lógica JS
-![imagem de capa](https://github.com/paulinhachgs/DesafioAlura-7days-of-code/assets/131710245/964340fd-85c1-422b-a4de-27da59da555b)
+# Desafio Alura: 7days of code - JavaScript
 
-> Status: em processo 🔧
+Desafio indicado após a formação de iniciante de em Programação pela instrutora [Rafa Ballerini](https://github.com/rafaballerini) da escola de tecnologia [Alura](https://alura.com.br/), são 7 dias e cada dia um novo desafio é lançado, todos com resoluções de problemas para resolver usando a lógica de programação com a linguagem Javascript. 
 
-<h2>Índice</h2>
+Status: em desenvolvimento 🔧
 
-+ [Descrição](#descrição)
-+ [Desafio 1](#desafio-1)
-+ [Desafio 2](#desafio-2)
+- [ ] Dia 1: Operação Booleanas - igualdade entre valores
+- [ ] Dia 2
+- [ ] Dia 3
+- [ ] Dia 4
+- [ ] Dia 5
+- [ ] Dia 6
+- [ ] Dia 7
 
-<h2>Descrição</h2>
+### Descrição por desafio:
 
-Desafio proposto pela instrutora [Rafa Ballerini](https://github.com/rafaballerini) da escola de tecnologia [Alura](https://alura.com.br/), são 7 dias e cada dia um novo desafio é lançado, todos com resoluções de problemas para resolver usando a lógica de programação com a linguagem Javascript.
-
-<h2>Desafio 1</h2>
+#### Desafio 1
 
 Lógica JS: Operação Booleanas
-Sobre operação de igualdade entre valores e comparação. Neste primeiro desafio precisava corrigir o este [código]().
-A dica para realizar este desafio foi nesse [artigo](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript).
 
-<h2>Desafio 2</h2>
+### Linguagens utilizadas
 
-Lógica JS: Variáveis
+#### Observação:
+Para realizar este desafio tive algumas dificuldades, fiz uma longa pausa do desafio e fui em busca compreender mais sobre lógica de
+programção no [Curso em Video](https://www.youtube.com/@CursoemVideo), caso você seja iniciante em programação
+e tenha dificuldade em realizar os desafios mesmo após o curso iniciante da alura, esse canal pode te auxiliar.
